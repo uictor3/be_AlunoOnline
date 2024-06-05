@@ -8,11 +8,11 @@
 		<version>3.2.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.AlunoOnline</groupId>
+	<groupId>br.com.alunoonline</groupId>
 	<artifactId>api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Aluno Online</name>
-	<description>Api Backend Aluno Online</description>
+	<description>API Backend Aluno Online</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
